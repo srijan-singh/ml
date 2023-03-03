@@ -1,0 +1,15 @@
+Days,Outlook,Temperature,Humidity,Windy,PlayGolf
+d1,Rainy,Hot,High,FALSE,No
+d2,Rainy,Hot,High,TRUE,No
+d3,Overcast,Hot,High,FALSE,Yes
+d4,Sunny,Mild,High,FALSE,Yes
+d5,Sunny,Cool,Normal,FALSE,Yes
+d6,Sunny,Cool,Normal,TRUE,No
+d7,Overcast,Cool,Normal,TRUE,Yes
+d8,Rainy,Mild,High,FALSE,No
+d9,Rainy,Cool,Normal,FALSE,Yes
+d10,Sunny,Mild,Normal,FALSE,Yes
+d11,Rainy,Mild,Normal,TRUE,Yes
+d12,Overcast,Mild,High,TRUE,Yes
+d13,Overcast,Hot,Normal,FALSE,Yes
+d14,Sunny,Mild,High,TRUE,No
