@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv('insurance3.csv')
+df = pd.read_csv('res/insurance3.csv')
 print(df.head().to_string())
 print(df.shape) #(8,2)
 df['boughtinsurance'].replace({'no':'0','yes':'1'},inplace=True)
