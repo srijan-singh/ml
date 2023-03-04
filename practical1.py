@@ -30,8 +30,7 @@ from sklearn.linear_model import LinearRegression
 lr = LinearRegression() #object of modal lr
 lr.fit(X_train, y_train) #we are passing
 #print("X_test : ",X_test[0, :]) #we are passing test data set 1st house
-print("PRedict PRice:",lr.predict([X_test[0, :]])) #we are passing test data set 1st
-house
+print("PRedict PRice:",lr.predict([X_test[0, :]])) #we are passing test data set 1st house
 #Predict PRice: [76.90661876]
 #Print for all X_test
 #print("X_test : ",X_test) #we are passing test data set 1st house
